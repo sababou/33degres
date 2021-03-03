@@ -1,6 +1,7 @@
 <!-----------------------------------------------  WORKS   ------------------------>
 <section>
 
+  <div class="text-white text-center display-3 mb-5 font-weight-normal">Our works</div>
 
   <div class="container-fluid">
     <div class="row">
@@ -30,8 +31,9 @@
               </div>
 
             </div>
-            <div class="carousel-item height_450px">
-              <img src="img/slider_2.png" class="d-block w-100" alt="slider_2">
+            <div class="carousel-item height_450px text-right" style="overflow-x: none;">
+              <img src="img/slider_2.png" class="w-100 d-none d-md-block" alt="slider_2">
+              <img src="img/slider_2_phone.png" class="d-md-none w-100 " alt="slider_2">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -50,10 +52,10 @@
 
   <div class="container my-5">
     <div class="row">
-      <div class="col"><img src="img/our_work_1.png" alt="" class="img-fluid"></div>
-      <div class="col">
+      <div class="col-md"><img src="img/our_work_1.png" alt="" class="img-fluid"></div>
+      <div class="col-md">
         <div class="row">
-          <div class="col"><img src="img/our_work_2.png" alt="" class="img-fluid"></div>
+          <div class="col pt-5 pt-md-0"><img src="img/our_work_2.png" alt="" class="img-fluid"></div>
         </div>
         <div class="row">
           <div class="col pt-5"><img src="img/our_work_3.png" alt="" class="img-fluid"></div>

@@ -1,6 +1,7 @@
 <!-------------------------------------------------------- SERVICES -->
 
 <section class="container text-white">
+  <div class="text-white text-center display-3 mb-5 font-weight-normal">Our Services</div>
   <div class="row">
     <div class="col">
       <p class="text-center">
@@ -16,6 +17,9 @@
     </div>
   </div>
   <div class="row py-3">
+    <div class="col-md d-md-none mb-4">
+      <img src="img/service_1.png" alt="service_1" class="img-fluid">
+    </div>
     <div class="col">
       <p class="font-weight-bold mb-1">Ios App</p>
       <p>
@@ -42,15 +46,15 @@
         Empowers You To Create Mobile Games That Take The Entertainment To The Next Level.
       </p>
     </div>
-    <div class="col">
+    <div class="col d-none d-md-block">
       <img src="img/service_1.png" alt="service_1" class="img-fluid">
     </div>
   </div>
   <div class="row py-3">
-    <div class="col">
+    <div class="col-md">
       <img src="img/service_2.png" alt="service_2" class="img-fluid">
     </div>
-    <div class="col">
+    <div class="col-md">
       <div class="h3 my-3">Types Of App We Create:</div>
       <p class="font-weight-bold mb-1">E Commerce Apps </p>
       <p>
@@ -67,6 +71,9 @@
     </div>
   </div>
   <div class="row py-3">
+    <div class="col-md d-md-none">
+      <img src="img/service_3.png" alt="service_3" class="img-fluid">
+    </div>
     <div class="col">
       <div class="h3 my-3">Why We Are The Best Mobile App Development Company In Dubai? </div>
       <p class="font-weight-bold mb-1">Conception</p>
@@ -86,7 +93,7 @@
       <p class="font-weight-bold mb-1">App Deployment</p>
       <p>We Can Help Your Application Get Its Way To The App Store Rapidly With Our Experience. </p>
     </div>
-    <div class="col">
+    <div class="col d-none d-md-block">
       <img src="img/service_3.png" alt="service_3" class="img-fluid">
     </div>
   </div>

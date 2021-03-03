@@ -1,9 +1,9 @@
-
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     <title>index</title>
 
     <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
@@ -17,23 +17,13 @@
     <?php
 
     require_once("includes/header.php");
+
     require_once("includes/about_us.php");
     require_once("includes/works.php");
     require_once("includes/services.php");
     require_once("includes/footer.php");
 
     ?>
-
-
-
-
-
-
-
-
-
-
-
 
 
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"  crossorigin="anonymous"></script>

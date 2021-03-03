@@ -1,3 +1,7 @@
 .text-vertbleu{
   color: #06EBBF;
 }
+
+.bg-black{
+  background-color: rgba(0,0,0,0.7);
+}

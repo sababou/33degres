@@ -4,6 +4,17 @@ body{
   background-attachment: fixed;
   background-size: 100% 100%;
   background-color: black;
+
+}
+
+header{
+  background: linear-gradient(to bottom, black, rgba(0,0,0,0.4));
+}
+
+#navcontent{
+  width:100vw;
+  height: 100vh;
+  transform: translateX(-32px);
 }
 
 .pt-4rem{
@@ -43,4 +54,16 @@ body{
 
 .height_450px{
   height: 450px !important;
+}
+
+
+@media(max-width: 650px) {
+  .height_450px{
+    height: 250px !important;
+  }
+
+  body{
+    background-size: auto 100%;
+    background-position: center;
+  }
 }

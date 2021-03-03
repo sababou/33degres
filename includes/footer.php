@@ -26,7 +26,7 @@
       <div class="display-4 font-weight-bold">CONTACT</div>
     </div>
   </div>
-  <div class="row">
+  <div class="row d-none d-md-block">
     <div class="col d-flex justify-content-end">
       <div class="px-5">
         <div class="mb-0">Phone</div>
@@ -39,6 +39,24 @@
       </div>
     </div>
   </div>
+
+  <div class="row  d-md-none">
+
+    <div class="col-md text-center py-5">
+      <div class="px-5">
+        <div class="mb-0">Phone</div>
+        <div class="mb-4">04 112 5950</div>
+        <div class="mb-2">Dubai</div>
+        <div >Gateway Building, Block A, <br>Dubai Media City, P.O Box 35516,</div>
+      </div>
+
+    </div>
+    <div class="col-md text-center">
+      <img src="img/map.png" alt="" class="img-fluid">
+    </div>
+  </div>
+
+
   <div class="row">
     <div class="col text-right py-3">
       <small>
