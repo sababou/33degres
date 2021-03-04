@@ -11,9 +11,9 @@
   </div>
   <div class="row mb-4">
     <div class="col d-flex justify-content-center py-3 pb-5">
-      <div class="d-inline-block px-5 height-3_5-rem"><img src="icones/android.png" alt="" class="img-fluid"></div>
-      <div class="d-inline-block px-5 height-3_5-rem"><img src="icones/apple.png" alt="" class="img-fluid mt-3"></div>
-      <div class="d-inline-block px-5 height-3_5-rem"><img src="icones/magento.png" alt="" class="img-fluid mt-2"></div>
+      <div class="d-inline-block px-3 px-md-5 height-3_5-rem"><img src="icones/android.png" alt="" class="img-fluid"></div>
+      <div class="d-inline-block px-3 px-md-5 height-3_5-rem"><img src="icones/apple.png" alt="" class="img-fluid mt-2 mt-md-3"></div>
+      <div class="d-inline-block px-3 px-md-5 height-3_5-rem"><img src="icones/magento.png" alt="" class="img-fluid mt-md-2"></div>
     </div>
   </div>
   <div class="row py-3">
